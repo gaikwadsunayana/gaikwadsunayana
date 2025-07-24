@@ -28,3 +28,16 @@
 
 ---
 <h3 align="left">Languages</h3>
+<table>
+  <tr>
+    <!-- Languages Column -->
+    <td valign="top" width="50%">
+      <strong>🗣️ Languages</strong><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell Scripting" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    </td>
+  </tr>
+
+</table> 
