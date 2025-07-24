@@ -8,7 +8,7 @@
 ---
 
 <!-- Right-side DevOps GIF -->
-<img src="https://raw.githubusercontent.com/rajeshadeveloper/rajeshadeveloper/main/assets/devops.gif" width="400">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <!-- Profile Views Counter with style -->
 <p align="left">
