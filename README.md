@@ -8,15 +8,13 @@
 ---
 
 <!-- Right-side DevOps GIF -->
-<img align="right" alt="DevOps Animation" width="400" src="https://raw.githubusercontent.com/rajeshadeveloper/rajeshadeveloper/main/assets/devops.gif">
+<img src="https://raw.githubusercontent.com/rajeshadeveloper/rajeshadeveloper/main/assets/devops.gif" width="400">
 
 <!-- Profile Views Counter with style -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nainas&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gaikwadsunayana&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Quick Info -->
-- 📂 All of my DevOps projects live here: [https://github.com/nainas](https://github.com/nainas)  
-- 💬 Feel free to reach out to me about **CI/CD, Docker, Kubernetes, Cloud**  
-- 📫 Contact me: **your.email@example.com**
-
+- 📂 All of my DevOps projects live here: https://github.com/gaikwadsunayana  
+- 📫 Contact me: **sunayanagaikwas.com1536@gmail.com**
