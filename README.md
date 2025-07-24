@@ -24,6 +24,63 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sunayana-gaikwad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://medium.com/@Sunayanagaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sunayanagaikwad" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+---
+<!-- Tools and Languages>
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  &nbsp;&nbsp;
+
+  <!-- Bash -->
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  
+  &nbsp;&nbsp;
+
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Kubernetes -->
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Jenkins -->
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Terraform -->
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
+  &nbsp;&nbsp;
+
+  <!-- Ansible -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
 </p>
 
