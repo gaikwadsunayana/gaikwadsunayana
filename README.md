@@ -29,7 +29,6 @@
 ---
 <h3 align="left">Languages</h3>
 <p align="left">
-  <strong>🗣️ Languages</strong><br>
     <strong>Python</strong> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>
-     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell Scripting" width="40" height="40"/>
+     <strong>Shell script</strong><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell Scripting" width="40" height="40"/>
 </p>
