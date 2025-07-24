@@ -28,9 +28,7 @@
 
   &nbsp;&nbsp;
 
-  <!-- Email -->
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
+  <!-- Medium -->
+<a href="https://medium.com/https://medium.com/@sunayanagaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sunayanagaikwad" height="30" width="40" /></a>
 </p>
 
