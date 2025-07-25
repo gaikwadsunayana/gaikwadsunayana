@@ -68,7 +68,10 @@
   ▪️ Coordinated events, handled outreach, and managed technical sessions  
 
 - 🚀 **Team Leader** – *ARTH School of Technologies*  
-  ▪️ Mentored juniors during hands-on DevOps & Cloud training led by *Vimal Daga Sir*
+  ▪️  Led a collaborative team project during **intensive DevOps & Cloud training** under *Vimal Daga Sir*, focusing on real-time problem solving and innovation
+
+- 🎓 **Seminar Host** – *Git & GitHub Workshop for Juniors*  
+  ▪️ Conducted a complete **hands-on session** covering version control, Git commands, GitHub workflows, and team collaboration
 
 ---
 
