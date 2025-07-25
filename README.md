@@ -50,3 +50,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&langs_count=8"/>
 </p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&theme=radical" />
+</p>
+
