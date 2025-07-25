@@ -46,52 +46,7 @@
       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
 </p>
 ---
-<div align="center">
-  <p><strong>🚀 Tech Stack</strong></p>
-  <div style="white-space: nowrap;">
-        <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-      <div>AWS</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-      <div>Linux</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-      <div>Docker</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
-      <div>Kubernetes</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
-      <div>Jenkins</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50"/>
-      <div>Terraform</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-      <div>Git</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
-      <div>GitHub</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/>
-      <div>Ansible</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <div>Python</div>
-    </div>
-    <div style="display: inline-block; text-align: center; margin: 0 20px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-      <div>Bash</div>
-    </div>
-  </div>
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&langs_count=8"/>
+</p>
