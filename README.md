@@ -52,4 +52,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&theme=gruvbox" />
 </p>
 
+---
+
+## 🏆 Achievements & Extracurricular Activities
+
+- 🥈 **Second Place** – *AVISHKAR 2022 (Zonal Level)*  
+- 🥉 **Third Place** – *Smart India Hackathon 2023 (Inter-department)*  
+
+### 💼 Extracurriculars & Leadership
+
+- 👩‍💻 **Technical Volunteer** – *LinuxWorld Informatics Pvt. Ltd.*  
+  ▪️ Contributed to a **7-day corporate training** program for **Deloitte** (Jan 2025)
+
+- 🤝 **Team Secretary** – *DAEXUS Tech Club*  
+  ▪️ Coordinated events, handled outreach, and managed technical sessions  
+
+- 🚀 **Team Leader** – *ARTH School of Technologies*  
+  ▪️ Mentored juniors during hands-on DevOps & Cloud training led by *Vimal Daga Sir*
+
+---
+
+## 💼 Experience
+
+**👩‍💻 DevOps Engineer Trainee**  
+📍 *LinuxWorld Informatics Pvt. Ltd.* | 🗓️ Sep 2022 – Sep 2023  
+
+- ⚙️ Hands-on experience in **AWS (EC2, S3, RDS, IAM, Lambda, VPC, CloudWatch, API Gateway, CloudFront)**  
+- 📦 Worked on **Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, GitHub, Linux (Ubuntu/RedHat), Python, Bash/Shell Scripting**  
+- 🚀 Built & deployed CI/CD pipelines, managed infrastructure using IaC, and automated workflows
+
+
+
 
