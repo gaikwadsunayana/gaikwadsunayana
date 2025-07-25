@@ -45,15 +45,8 @@
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
 </p>
+
 ---
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&langs_count=8"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&theme=radical" />
-</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaikwadsunayana&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaikwadsunayana&layout=compact&theme=gruvbox" />
