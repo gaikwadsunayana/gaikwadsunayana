@@ -84,6 +84,35 @@
 - 📦 Worked on **Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, GitHub, Linux (Ubuntu/RedHat), Python, Bash/Shell Scripting**  
 - 🚀 Built & deployed CI/CD pipelines, managed infrastructure using IaC, and automated workflows
 
+---
+
+## 🌐 Let's Connect
+
+- 🔗 **Portfolio**: [sunayanagaikwad.dev](https://sunayanagaikwad.dev) *(coming soon...)*  
+- 🐙 **GitHub**: [@gaikwadsunayana](https://github.com/gaikwadsunayana)  
+- 💼 **LinkedIn**: [Sunayana Gaikwad](https://www.linkedin.com/in/sunayana-gaikwad)  
+- 📬 **Email**: [gaikwadsunayana@gmail.com](mailto:gaikwadsunayana@gmail.com)
+
+---
+
+### ⚙️ DevOps in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW00eHkydm45NzRkY3h4OHFxeGJyaGxkNTZ2aTljdTVqb2xnbDk1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+
+<h3 align="center">🚀 Automate. Secure. Scale. Repeat. 🔁</h3>
+
 
 
 
