@@ -46,45 +46,53 @@
       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
 </p>
 ---
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/><br/>
-      <span>AWS</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/><br/>
-      <span>Linux</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/><br/>
-      <span>Docker</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br/>
-      <span>Kubernetes</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/><br/>
-      <span>Jenkins</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50"/><br/>
-      <span>Terraform</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/><br/>
-      <span>Git</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/><br/>
-      <span>GitHub</span>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/><br/>
-      <span>Ansible</span>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><strong>🚀 Tech Stack</strong></p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+        <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+      <br/><span>AWS</span>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+      <br/><span>Linux</span>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+      <br/><span>Docker</span>
+    </div>
+    <div align="center">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+      <br/><span>Kubernetes</span>
+    </div>
+    <div align="center">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+      <br/><span>Jenkins</span>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50"/>
+      <br/><span>Terraform</span>
+    </div>
+    <div align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+      <br/><span>Git</span>
+    </div>
+    <div align="center">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
+      <br/><span>GitHub</span>
+    </div>
+    <div align="center">
+      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/>
+      <br/><span>Ansible</span>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+      <br/><span>Python</span>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
+      <br/><span>Bash</span>
+    </div>
+
+  </div>
+</div>
