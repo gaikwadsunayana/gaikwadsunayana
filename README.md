@@ -86,33 +86,33 @@
 
 ---
 
+
 ## 🌐 Let's Connect
 
-- 🔗 **Portfolio**: [sunayanagaikwad.dev](https://sunayanagaikwad.dev) *(coming soon...)*  
+- 🔗 **Portfolio**: [sunayanagaikwad.dev](https://sunayanagaikwad.dev) *(coming soon)*  
 - 🐙 **GitHub**: [@gaikwadsunayana](https://github.com/gaikwadsunayana)  
 - 💼 **LinkedIn**: [Sunayana Gaikwad](https://www.linkedin.com/in/sunayana-gaikwad)  
 - 📬 **Email**: [gaikwadsunayana@gmail.com](mailto:gaikwadsunayana@gmail.com)
 
 ---
 
-### ⚙️ DevOps in Action
+### ⚙️ DevOps in Motion
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="260px" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW00eHkydm45NzRkY3h4OHFxeGJyaGxkNTZ2aTljdTVqb2xnbDk1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="260px" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260px" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260px" />
 </p>
 
 ---
 
 ## 💬 Dev Quote of the Day
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
 ---
 
-<h3 align="center">🚀 Automate. Secure. Scale. Repeat. 🔁</h3>
-
+<h3 align="center">🧠 Code. Automate. Deploy. Scale. <br/> Like a Machine with a Human Touch. 🤖❤️</h3>
 
 
 
